@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Phone'/>
+        <page name='Call'/>
+        <page name='Draw'/>
+        <page name='DrawDigits'/>
+        <page name='Logo'/>
+    </pages>
+</playground>
